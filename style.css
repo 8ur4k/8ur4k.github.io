@@ -428,8 +428,8 @@ About 2
   06. Project Area
 ----------------------------------------*/
 
-#logoImage {
-  width: 500px;
+.logo-image {
+  max-width: 110% !important;
 }
 
 .project {
