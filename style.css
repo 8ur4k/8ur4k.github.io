@@ -506,6 +506,10 @@ About 2
   margin-top: 30px;
 }
 
+.maps-section {
+  width: 470px;
+  /* border: 1px rgb(0, 0, 0) solid; */
+}
 /*---------------------------------------
   07. Call to Action Area
 ----------------------------------------*/
