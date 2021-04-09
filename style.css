@@ -70,8 +70,6 @@
   z-index: 200;
   bottom: 15px;
 }
-#scrollUp:hover {
-}
 
 @-webkit-keyframes scroll-ani-to-top {
   0% {
@@ -1533,8 +1531,7 @@ blockquote {
   margin: 0 15px;
   width: 50%;
 }
-.bl__input__box {
-}
+
 .single__form .bl__input__box + .bl__input__box {
   margin-top: 18px;
 }
